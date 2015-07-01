@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rainfall_mm_last_hour: 1.5
+  wind_speed: 1.5
+  wind_direction: 1.5
+  temperature: 1.5
+
+two:
+  rainfall_mm_last_hour: 1.5
+  wind_speed: 1.5
+  wind_direction: 1.5
+  temperature: 1.5
